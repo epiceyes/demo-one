@@ -1,4 +1,4 @@
 # demo-one
 This is my first git repository for november seventeen
 <br>
-This is by the request od the author(saurya ko demo)
+This is by the request od the author
